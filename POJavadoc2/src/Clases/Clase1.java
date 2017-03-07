@@ -37,7 +37,7 @@ public class Clase1
 	}
 
 	/**
-	 * este metodo devuelve el genero del libro
+	 * este metodo devuelve el genero del libr0
 	 * @return param1
 	 */
 	public String metodo1() {
